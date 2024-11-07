@@ -1,11 +1,3 @@
---Hats you need:
---https://www.roblox.com/catalog/4820152700/Shadow-Blademasters-Blade
---https://www.roblox.com/catalog/4524991457/Blademasters-Blade
---https://www.roblox.com/catalog/4794315940/Golden-Demonic-Greatsword
---https://www.roblox.com/catalog/4506945409/Corrupt-Demonic-Greatsword
---https://www.roblox.com/catalog/4458601937/Frozen-Demonic-Greatsword
---https://www.roblox.com/catalog/4315489767/Demonic-Greatsword
--- -gh 4820152700,4524991457,4794315940,4506945409,4458601937,4315489767
 HumanDied = false
 local CountSCIFIMOVIELOL = 1
 function SCIFIMOVIELOL(Part0,Part1,Position,Angle)
